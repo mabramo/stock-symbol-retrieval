@@ -1,7 +1,5 @@
 package StockTickerSymbolRetrieval;
 
-//test line
-
 public class StockTickerSymbolRetrieval 
 {
 
